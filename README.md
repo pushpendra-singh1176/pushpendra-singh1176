@@ -62,6 +62,14 @@ I’m a passionate DevOps Engineer focused on automating infrastructure, buildin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-singh1176\&layout=compact\&theme=tokyonight)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Code+→+Build+→+Test+→+Docker+→+Deploy+→+Monitor)](https://git.io/typing-svg)
+### 🧩 DevOps Stack (Workflow View)
+
+![Git](https://img.shields.io/badge/code-git-black)
+![CI](https://img.shields.io/badge/ci-build-blue)
+![Docker](https://img.shields.io/badge/docker-image-blue)
+![Kubernetes](https://img.shields.io/badge/k8s-deploy-blue)
+![Monitoring](https://img.shields.io/badge/monitoring-prometheus-orange)
+
 
 
 ---
