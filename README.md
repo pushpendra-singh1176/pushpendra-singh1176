@@ -61,6 +61,9 @@ I’m a passionate DevOps Engineer focused on automating infrastructure, buildin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-singh1176\&layout=compact\&theme=tokyonight)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Code+→+Build+→+Test+→+Docker+→+Deploy+→+Monitor)](https://git.io/typing-svg)
+
+
 ---
 
 ## 📫 Connect With Me
