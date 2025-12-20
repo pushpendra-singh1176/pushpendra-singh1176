@@ -66,7 +66,7 @@ I’m a passionate DevOps Engineer focused on automating infrastructure, buildin
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+* 🧑‍💻 GitHub: [https://github.com/pushpendra-singh1176](https://github.com/pushpendra-singh1176)
 
 ---
 
