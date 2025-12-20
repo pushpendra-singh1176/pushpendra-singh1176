@@ -1,4 +1,5 @@
 # Hi 👋 I'm Pushpendra Singh
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=CI+➜+Build+➜+Test+➜+Docker+➜+Deploy)](https://git.io/typing-svg)
 
 🚀 **DevOps Engineer | Cloud & Automation Enthusiast**
 
@@ -61,7 +62,6 @@ I’m a passionate DevOps Engineer focused on automating infrastructure, buildin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-singh1176\&layout=compact\&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Code+→+Build+→+Test+→+Docker+→+Deploy+→+Monitor)](https://git.io/typing-svg)
 ### 🧩 DevOps Stack (Workflow View)
 
 ![Git](https://img.shields.io/badge/code-git-black)
@@ -69,8 +69,6 @@ I’m a passionate DevOps Engineer focused on automating infrastructure, buildin
 ![Docker](https://img.shields.io/badge/docker-image-blue)
 ![Kubernetes](https://img.shields.io/badge/k8s-deploy-blue)
 ![Monitoring](https://img.shields.io/badge/monitoring-prometheus-orange)
-
-
 
 ---
 
