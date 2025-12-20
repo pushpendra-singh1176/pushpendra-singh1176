@@ -1,36 +1,73 @@
-## Hi there 👋
+# Hi 👋 I'm Pushpendra Singh
 
-<!--
-**pushpendra-singh1176/pushpendra# Hi 👋 I'm Pushpendra Singh
+🚀 **DevOps Engineer | Cloud & Automation Enthusiast**
 
-🚀 DevOps Engineer | Cloud & Automation Enthusiast
+I’m a passionate DevOps Engineer focused on automating infrastructure, building CI/CD pipelines, and managing scalable cloud-native applications.
 
-## 🔧 Skills
-- ☁️ AWS (EC2, S3, IAM, VPC)
-- 🐳 Docker & Docker Compose
-- ☸️ Kubernetes (Minikube, EKS)
-- 🔁 CI/CD (Jenkins, GitHub Actions)
-- 🖥️ Linux, Shell Scripting
-- 🛠️ Git, GitHub, Terraform (Basics)
+---
+
+## 🔧 Tech Stack
+
+### ☁️ Cloud
+
+* AWS (EC2, S3, IAM, VPC, CloudWatch)
+
+### 🐳 Containers & Orchestration
+
+* Docker, Docker Compose
+* Kubernetes (Minikube, KIND, EKS – Basics)
+
+### 🔁 CI/CD
+
+* Jenkins
+* GitHub Actions
+
+### 🖥️ OS & Scripting
+
+* Linux (Ubuntu)
+* Shell Scripting (Bash)
+
+### 🛠️ Tools & IaC
+
+* Git & GitHub
+* Terraform (Basics)
+* Helm (Basics)
+
+---
 
 ## 📌 Projects
-- CI/CD Pipeline using Jenkins & Docker
-- Kubernetes Monitoring with Prometheus & Grafana
-- AWS EC2 Deployment Automation
 
-## 📫 Connect with me
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
--singh1176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 CI/CD Pipeline with Jenkins & Docker
 
-Here are some ideas to get you started:
+* Automated build, test, and deployment pipeline
+* Integrated GitHub webhook with Jenkins
+* Dockerized application deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Kubernetes Monitoring Stack
+
+* Deployed Prometheus & Grafana on Kubernetes
+* Configured dashboards and alerts
+
+### 🔹 AWS Infrastructure Automation
+
+* EC2-based deployments
+* Security groups & IAM configuration
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* 🧑‍💻 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+
+---
+
+⭐ *Always learning, always automating.*
