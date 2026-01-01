@@ -58,7 +58,7 @@ I’m a passionate DevOps Engineer focused on automating infrastructure, buildin
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpendra-singh1176&show_icons=true&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/pushpendra-singh1176?template=classic&isocalendar=1&languages=1&achievements=1&followup=1&activity=1&base.indepth=true&base.hireable=true&base.skip=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendra-singh1176&layout=compact&theme=tokyonight)
 ![Visitors](https://komarev.com/ghpvc/?username=pushpendra-singh1176&color=blue)
 
