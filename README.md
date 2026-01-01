@@ -56,8 +56,17 @@ I’m a passionate DevOps Engineer focused on automating infrastructure, buildin
 
 ---
 
-## 📊 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/pushpendra-singh1176)
+## 🚀 DevOps Engineer | Cloud & Kubernetes
+
+## 📈 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pushpendra-singh1176&theme=github-dark)
+
+## 🏆 Achievements
+![Trophy](https://github-profile-trophy.vercel.app/?username=pushpendra-singh1176&theme=onedark&no-frame=true)
+
+## 📊 GitHub Reach
+![Followers](https://img.shields.io/github/followers/pushpendra-singh1176?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/pushpendra-singh1176?style=for-the-badge)
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pushpendra-singh1176&theme=github-dark)
