@@ -56,8 +56,10 @@ I’m a passionate DevOps Engineer focused on automating infrastructure, buildin
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/pushpendra-singh1176)
 
+## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pushpendra-singh1176&theme=github-dark)
 
 ### 🧩 DevOps Stack (Workflow View)
