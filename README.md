@@ -6,18 +6,6 @@
 I’m a passionate DevOps Engineer focused on automating infrastructure, building CI/CD pipelines, and managing scalable cloud-native applications.
 
 ---
-## 📐 Architecture (CI/CD + GitOps)
-
-GitHub  
-↓  
-Jenkins (Build + Test + SonarQube)  
-↓  
-DockerHub  
-↓  
-ArgoCD  
-↓  
-Kubernetes (AWS EC2)
-
 
 ## 🔧 Tech Stack
 
@@ -67,6 +55,22 @@ Kubernetes (AWS EC2)
 * Security groups & IAM configuration
 
 ---
+## 📐 Architecture (CI/CD + GitOps)
+
+GitHub  
+↓  
+Jenkins (Build + Test + SonarQube)  
+↓  
+DockerHub  
+↓  
+ArgoCD  
+↓  
+Kubernetes (AWS EC2)
+## 📌 Currently Learning
+- Advanced Kubernetes (Ingress, HPA)  
+- Helm basics  
+- AWS EKS fundamentals
+
 
 ## 🚀 DevOps Engineer | Cloud & Kubernetes
 
