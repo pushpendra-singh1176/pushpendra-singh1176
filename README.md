@@ -95,7 +95,7 @@ Kubernetes (AWS EC2)
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/pushpendra-singh0549)
 * 🧑‍💻 GitHub: [https://github.com/pushpendra-singh1176](https://github.com/pushpendra-singh1176)
 
 ---
