@@ -1,8 +1,7 @@
 # Hi 👋 I'm Pushpendra Singh
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=CI+➜+Build+➜+Test+➜+Docker+➜+Deploy)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=CD+Trigger+⚡;ArgoCD+(GitOps)+🔁;Kubernetes+Deployment+☸️;Service+Exposure+🌐;Monitoring+with+Prometheus+📊;Visualization+with+Grafana+📈)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=6000&pause=2000&color=00F7FF&width=1400&lines=CD+Trigger+➜+ArgoCD+(GitOps)+➜+Kubernetes+Rolling+Update+➜+Monitoring+with+Prometheus+%2B+Grafana)](https://git.io/typing-svg)
 🚀 **DevOps Engineer | Cloud & Automation Enthusiast**
 
 I’m a passionate DevOps Engineer focused on automating infrastructure, building CI/CD pipelines, and managing scalable cloud-native applications.
