@@ -1,5 +1,6 @@
 # Hi 👋 I'm Pushpendra Singh
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=CI+➜+Build+➜+Test+➜+Docker+➜+Deploy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=CI+Pipeline+🚀;Build+⚙️;Test+✅;Docker+🐳;Push+Image+📦;CD+Trigger+⚡;ArgoCD+🔁;K8s+Deploy+☸️;Monitoring+📊)](https://git.io/typing-svg)
 
 🚀 **DevOps Engineer | Cloud & Automation Enthusiast**
 
